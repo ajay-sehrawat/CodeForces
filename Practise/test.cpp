@@ -1,9 +1,12 @@
 #include<bits/stdc++.h>
 using namespace std;
+ 
 int main()
 {
-    long long int x;
-    cin>>x;
-     double check = sqrt(x);
-    cout<<check;
+    int n,a,b,c;
+    cin>>n>>a>>b>>c;
+    
+
+
+    return 0;
 }
