@@ -1,12 +1,10 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
- 
 int main()
 {
-    int n,a,b,c;
-    cin>>n>>a>>b>>c;
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    int n, m;
     
-
-
     return 0;
 }
