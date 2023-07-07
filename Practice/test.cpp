@@ -34,13 +34,5 @@ int main()
         }     
     }
     cout<<val1<<" "<<val2;
- 
-
-    
-    
-    
-    
-
-
     return 0;
 }
