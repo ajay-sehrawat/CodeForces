@@ -12,13 +12,20 @@ int main()
     {
         cin>>a[i];
     }
-    int freq[t];
+    sort( a, a+t);
+
+    int freq[t], temp = 0, sum = 0;
     for ( int i = 0; i<t; i++ )
     {
         for ( int j=0; j<t; j++ )
         {
-            
+            if ( a[i] == a[j] )
+            {
+
+                temp += a[j];
+            }
         }
+
     }
 
     return 0;
